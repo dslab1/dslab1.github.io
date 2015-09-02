@@ -16,8 +16,10 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 	<input type="hidden" name="ik_am" value="1000" />
 	<input type="hidden" name="ik_cur" value="RUB" />
 	<input type="hidden" name="ik_desc" value="Datalife SmartBlog" />
+	<input type="hidden" name="ik_act" value="payways" />
+	<input type="hidden" name="ik_pw_on" value="visa,yandexmoney,webmoney_merchant,w1_merchant_usd,privat24" />
 	<input type="hidden" name="ik_exp" value="2015-09-03" />
-        <input type="submit" value="Pay">
+        <input type="submit" value="Оплатить">
 </form>
 
 
